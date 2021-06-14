@@ -28,3 +28,26 @@
 
 ## TAMPILAN PADA WEB :
 ![5](https://user-images.githubusercontent.com/81587959/121912672-fb316080-cd5a-11eb-94e3-bcedee4d454c.PNG)
+
+## 3. Contoh Tampilan Desain Data Base. ( karena disuruh mencari minimal 3 tabel jadi saya beri contoh  4 tabel ). Dan desain yang saya pilih dan saya konekan salah satunya saja seperi dari perintah tugas :
+![6](https://user-images.githubusercontent.com/81587959/121916218-25385200-cd5e-11eb-817a-6a3b2f274dd3.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
